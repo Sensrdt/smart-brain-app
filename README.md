@@ -5,4 +5,6 @@ Clone this repo
 Run npm install
 Run npm start
 
-** Make sure you use postgresql instead of mysql for this project.
+** Make sure you use postgresql for this project.
+
+@Sridip Dutta => (Sensrdt { @Mahakal } v:1.0.0);
