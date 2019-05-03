@@ -1,5 +1,5 @@
 # SmartBrain-app
-Here is a project of detecting the faces of persons using specific api from Clarifai.
+Here is a project of detecting the faces of persons using face detection api from Clarifai.
 
 Clone this repo
 Run npm install
